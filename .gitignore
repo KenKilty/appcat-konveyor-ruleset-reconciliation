@@ -1,0 +1,49 @@
+# Cloned repositories
+rulesets/
+appcat-konveyor-rulesets/
+
+# Analysis outputs and reports
+reports/
+tools/logs/
+tools/state.json
+tools/.cache/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
+*_backup
+
